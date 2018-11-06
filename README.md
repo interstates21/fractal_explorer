@@ -12,8 +12,8 @@ FEATURES:
 
 USAGE: (TESTED ON MACOS HIGH SIERRA 10.13)
 ./fractal [1 | 2 | 3 | 4 | 5 | 6 ]
-move with the arrows
-dive in with the mouse
+move with the arrows \n
+dive in with the mouse \n
 change color with 1
 change fractal with 2
 change depth with +/-
