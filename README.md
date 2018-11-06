@@ -12,11 +12,16 @@ FEATURES:
 
 USAGE: (TESTED ON MACOS HIGH SIERRA 10.13)
 ./fractal [1 | 2 | 3 | 4 | 5 | 6 ]
-move with the arrows \n
-dive in with the mouse \n
+move with the arrows
+
+dive in with the mouse
+
 change color with 1
+
 change fractal with 2
+
 change depth with +/-
+
 change Julia's seed with TAB(on/off) + mouse position
 
 ![alt text](screenshots/1.png)
