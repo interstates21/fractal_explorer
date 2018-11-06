@@ -3,7 +3,7 @@ FEATURES:
 - pure C
 - multithreading
 - zooming with mouse infinitely to a particular point
-- changing fractal deapth(iterations)
+- changing fractal depth(iterations)
 - moving with arrows
 - choosing fractal type at runtime
 - changing color mode at runtime
