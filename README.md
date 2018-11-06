@@ -1,2 +1,3 @@
 # fractal_explorer
-![alt text]()
+
+![alt text](screenshots/1.png)
