@@ -1,7 +1,6 @@
 # fractal_explorer
 FEATURES:
 - pure C
-- OPENGL mini library
 - multithreading
 - zooming with mouse infinitely to a particular point
 - changing fractal depth(iterations)
