@@ -19,7 +19,7 @@ USAGE: (TESTED ON MACOS HIGH SIERRA 10.13)
 - change depth with +/-
 - change Julia's seed with TAB(on/off) + mouse position
 
-![alt text](screenshots/1.png)
+![alt text](screenshots/21.png)
 ![alt text](screenshots/2.png)
 ![alt text](screenshots/3.png)
 ![alt text](screenshots/4.png)
@@ -38,7 +38,7 @@ USAGE: (TESTED ON MACOS HIGH SIERRA 10.13)
 ![alt text](screenshots/18.png)
 ![alt text](screenshots/19.png)
 ![alt text](screenshots/20.png)
-![alt text](screenshots/21.png)
+![alt text](screenshots/1.png)
 ![alt text](screenshots/23.png)
 ![alt text](screenshots/22.png)
 ![alt text](screenshots/24.png)
