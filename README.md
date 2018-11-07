@@ -11,7 +11,7 @@ FEATURES:
 - bonus fractal from the author: the cat.
 
 USAGE: (TESTED ON MACOS HIGH SIERRA 10.13)
-./fractal [1 | 2 | 3 | 4 | 5 | 6 ]
+./fractal [ 1 | 2 | 3 | 4 | 5 | 6 ]
 - move with the arrows
 - dive in with the mouse
 - change color with 1
